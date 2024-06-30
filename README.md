@@ -5,3 +5,5 @@ Coordinator-Prof. Divya Nayar
 2nd Semester, 2023-24
 <br>
 Contains the collection Python algorithms implemented to solve various linear and non-linear problems throughout the course 
+<br>
+P.S. preview option shows the plots
